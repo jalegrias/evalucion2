@@ -1,6 +1,6 @@
 **Requerimientos**
 
-•⁠  ⁠validacion de servicios.
+> blockquote **⁠validacion de servicios.**
 
 para realizar el despliegue con el comando:
 
