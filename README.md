@@ -1,6 +1,6 @@
-**Requerimientos**
+**Levantar Imagen NAGIOS**
 
-> Validacion de servicios.
+> Clonar imagen desde:
 
 para realizar el despliegue con el comando:
 
