@@ -1,7 +1,7 @@
 **Levantar Imagen NAGIOS**
 
 > Clonar imagen desde Docker Hub:
-[hub.docker.com/r/bodyno33/nagios](https://hub.docker.com/r/bodyno33/nagios)
+[bodyno33/nagios](https://hub.docker.com/r/bodyno33/nagios)
 
 para realizar el despliegue con el comando:
 
