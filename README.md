@@ -5,7 +5,7 @@
 
 - Se ejecuta el comando:
 1. docker-compose up -d
-
+###
 version: '3'
 services:
   nagios:
@@ -17,7 +17,7 @@ services:
     ports:
       - "8080:80"
     restart: always
-
+###
 ###   
 
 Este comado buscara la construcciòn declara en el dockerfile,
