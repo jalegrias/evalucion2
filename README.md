@@ -25,5 +25,6 @@ dockerfile busca la imagen declara a utilizar.
 
 > Abrir la url http://localhost:8080/
 **utilizar las credenciales de acceso**
+
 Usuario: nagiosadmin
 Contraseña: nagios
