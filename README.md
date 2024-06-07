@@ -6,17 +6,17 @@
 - Se ejecuta el comando:
 1. docker-compose up -d
 ###
-version: '3'
-services:
-  nagios:
-    image: "srbooz/nagios-core:1.0"
-    build: 
-      context: "./"
-      dockerfile: "Dockerfile"
-    container_name: nagios-eva
-    ports:
+- version: '3'
+- services:
+  - nagios:
+    - image: "srbooz/nagios-core:1.0"
+    - build: 
+      - context: "./"
+      - dockerfile: "Dockerfile"
+    - container_name: nagios-eva
+    - ports:
       - "8080:80"
-    restart: always
+    - restart: always
 ###
 ###   
 
