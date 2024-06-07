@@ -19,10 +19,8 @@
     - restart: always
 ###
 ###   
-
 Este comado buscara la construcciòn declara en el dockerfile,
 dockerfile busca la imagen declara a utilizar.
-
 ###
 
 > Abrir la url http://localhost:8080/
